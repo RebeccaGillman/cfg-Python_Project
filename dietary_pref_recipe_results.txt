@@ -1,0 +1,60 @@
+'Label: Spaghetti Frittata,
+''URL: https://food52.com/recipes/38849-spaghetti-frittata,
+'
+'Label: Spaghetti Genovese,
+''URL: http://www.bbcgoodfood.com/recipes/1945/,
+'
+'Label: Spaghetti With Marinara Sauce,
+''URL: https://www.epicurious.com/recipes/food/views/spaghetti-with-marinara-sauce-231367,
+'
+'Label: Simple Spaghetti Squash,
+''URL: https://www.marthastewart.com/1154177/spaghetti-squash,
+'
+'Label: Meatless Monday | Roasted Spaghetti Squash,
+''URL: http://chezus.com/2012/11/11/roasted-spaghetti-squash-2/,
+'
+'Label: Spaghetti Vongole,
+''URL: http://www.jamieoliver.com/recipes/pasta-recipes/spaghetti-vongole,
+'
+'Label: Barbecue Spaghetti,
+''URL: http://www.saveur.com/article/Recipes/Barbecue-Spaghetti,
+'
+'Label: Pressure-Cooker Spaghetti Squash,
+''URL: http://www.eatingwell.com/recipe/266630/pressure-cooker-spaghetti-squash/,
+'
+'Label: Spaghetti with Meatballs,
+''URL: http://www.cookstr.com/recipes/spaghetti-with-meatballs,
+'
+'Label: Skinny Spaghetti,
+''URL: http://ohsheglows.com/2009/03/09/a-lovely-surpirse/,
+'
+'Label: Spaghetti With Sauce,
+''URL: http://www.realsimple.com/food-recipes/browse-all-recipes/spaghetti-sauce-00000000001875/index.html,
+'
+'Label: Spaghetti Frittata recipes,
+''URL: http://www.foodandwine.com/recipes/spaghetti-frittata,
+'
+'Label: Orange Spaghetti,
+''URL: http://www.thedailymeal.com/recipes/orange-spaghetti-recipe,
+'
+'Label: Easy Baked Spaghetti Squash,
+''URL: http://www.myrecipes.com/recipe/easy-baked-spaghetti-squash,
+'
+'Label: Loaded Spaghetti,
+''URL: https://www.menshealth.com/recipes/loaded-spaghetti,
+'
+'Label: Spaghetti and Meatballs,
+''URL: http://www.delish.com/cooking/recipe-ideas/recipes/a35829/spaghetti-meatballs-recipe-ghk0913/,
+'
+'Label: Pesto & Parmesan Spaghetti,
+''URL: http://www.bbcgoodfood.com/recipes/1916/,
+'
+'Label: Spaghetti Salad,
+''URL: http://cookingwithamy.blogspot.com/2005/07/spaghetti-salad-recipe.html,
+'
+'Label: Spaghetti Carbonara,
+''URL: https://www.foodnetwork.com/recipes/sandra-lee/spaghetti-carbonara-recipe-1923398,
+'
+'Label: Spaghetti and Meatballs recipes,
+''URL: http://www.goodhousekeeping.com/food-recipes/a15620/spaghetti-meatballs-recipe-ghk0913/,
+'
